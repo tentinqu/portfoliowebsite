@@ -58,7 +58,7 @@
                     bg-violet-400 opacity-20 group-hover:translate-x-full z-0
                     duration-200"
         />
-        <h4 class="relative z-9">My CV &rarr;</h4>
+        <h4 class="relative z-9">The Academic Journey so far&rarr;</h4>
       </a>
     </div>
     <div class="relative shadow-2xl grid place-items-center">
