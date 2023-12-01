@@ -50,7 +50,7 @@
         class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg
             md:text-xl poppins relative overflow-hidden px-6 py-3 group
             rounded-full bg-white text-slate-950 cursor-pointer"
-        href="https://drive.google.com/file/d/1JV1lJrJqL5rPl6tajKl1Je1TvVTBjVnw/view?usp=sharing"
+        href="https://drive.google.com/file/d/1VlA72w-tMCn_e5T6R6EjEdP6E0efb69u/view?usp=sharing"
         target="_blank"
       >
         <div
