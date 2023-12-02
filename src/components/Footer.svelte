@@ -15,6 +15,16 @@ border-violet-950 flex flex-col gap-4 sm:gap-8 justify-center items-center">
                         />
             </a>
         </p>
+        <p><b class="pr-2">Github</b>
+            <a class="text-violet-400" target="_blank" href="https://github.com/tentinqu">
+                tentinqu<sup
+                    ><span class="text-xs scale-75 pl-0.5">
+                        <i
+                            class="fa-solid fa-arrow-up-right-from-square text-xs
+                            scale-[75%]"
+                        />
+            </a>
+        </p>
         <p><b class="pr-2">Instagram</b>
             <a class="text-violet-400" target="_blank" href="https://www.instagram.com/wingsofaether/">
                 Harshit Chauhan<sup
