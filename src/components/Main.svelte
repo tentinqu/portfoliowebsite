@@ -2,7 +2,7 @@
   import Step from "./Step.svelte";
 
   let steps = [
-    { name: "LSB Steganography with Vernam Cipher", icon: "fa-solid fa-lock" },
+    { name: "Vernam Cipher/One Time Pad", icon: "fa-solid fa-lock" },
     { name: "Secure Enhanced Geolocking", icon: "fa-solid fa-earth-americas" },
     { name: "AdminOps Script", icon: "fa-solid fa-people-roof" },
   ];
@@ -87,7 +87,7 @@
         <p>
           The Secure Messaging System is an advanced encryption project designed to ensure the utmost security for confidential messages. The encryption technique employed is the Vernam cipher, commonly known as the<strong class="text-violet-400">
             Vernam Cipher/One Time Pad. </strong
-          > This encryption method transforms plaintext messages into ciphertext by utilizing randomly generated keys, ensuring unparalleled security. Demonstrated in Jupyter Notebook, libraries used were secrets and string
+          > This encryption method transforms plaintext messages into ciphertext by utilizing randomly generated keys, ensuring unparalleled security. Demonstrated in Jupyter Notebook in python, libraries used were secrets and string
           
         </p>
       </Step>
