@@ -85,10 +85,10 @@
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
       <Step step={steps[0]}>
         <p>
-          This project uses 3 layers of encryption to hide a text file in an
-          image file, namely <strong class="text-violet-400">
-            Vernam Cipher, LSB Method and Affine Cipher Technique(s).</strong
-          >
+          The Secure Messaging System is an advanced encryption project designed to ensure the utmost security for confidential messages. The encryption technique employed is the Vernam cipher, commonly known as the<strong class="text-violet-400">
+            Vernam Cipher/One Time Pad. </strong
+          > This encryption method transforms plaintext messages into ciphertext by utilizing randomly generated keys, ensuring unparalleled security. Demonstrated in Jupyter Notebook, libraries used were secrets and string
+          
         </p>
       </Step>
 
